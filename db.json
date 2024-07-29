@@ -1,0 +1,78 @@
+{
+  "groups": [
+    {
+      "id": "1",
+      "name": "C0224"
+    },
+    {
+      "id": "2",
+      "name": "C0225"
+    },
+    {
+      "id": "3",
+      "name": "C0226"
+    }
+  ],
+  "students": [
+    {
+      "name": "Bob Brown",
+      "email": "Bob.brown@example.vn",
+      "date": "2022-04-01",
+      "group": "C0226",
+      "groupId": "3",
+      "id": "4"
+    },
+    {
+      "id": "5",
+      "name": "Charlie Davis",
+      "email": "Charlie.davis@example.com",
+      "date": "2022-05-01",
+      "groupId": "3"
+    },
+    {
+      "name": "David Wilson",
+      "email": "David.wilson@example.com",
+      "date": "2022-06-01",
+      "group": "C0226",
+      "groupId": "3",
+      "id": "6"
+    },
+    {
+      "name": "Emily Thomps",
+      "email": "Emily.thompson@example.com",
+      "date": "2022-07-01",
+      "group": "C0224",
+      "groupId": "1",
+      "id": "7"
+    },
+    {
+      "id": "8",
+      "name": "Frank Miller",
+      "email": "Frank.miller@example.com",
+      "date": "2022-08-01",
+      "groupId": "2"
+    },
+    {
+      "id": "9",
+      "name": "Grace Lee",
+      "email": "Grace.lee@example.com",
+      "date": "2022-09-01",
+      "groupId": "3"
+    },
+    {
+      "id": "10",
+      "name": "Henry Taylor",
+      "email": "Henry.taylor@example.com",
+      "date": "2022-10-01",
+      "groupId": "1"
+    },
+    {
+      "name": "hai",
+      "email": "teste@exemplo.us",
+      "date": "2024-08-01",
+      "group": "C0225",
+      "groupId": "2",
+      "id": "cc53"
+    }
+  ]
+}
